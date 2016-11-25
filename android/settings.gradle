@@ -1,0 +1,3 @@
+rootProject.name = 'XtanRemote'
+
+include ':app'
